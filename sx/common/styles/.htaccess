@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+ErrorDocument 404 http://10.5.3.15/sx/error/404
+ErrorDocument 401 http://10.5.3.15/sx/error/401
+

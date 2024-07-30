@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Grupo_411" data-name="Grupo 411" transform="translate(-29 -34)">
+    <g id="Grupo_410" data-name="Grupo 410" transform="translate(-1 -0.264)">
+      <g id="Elipse_91" data-name="Elipse 91" transform="translate(30 34.264)" fill="none" stroke="#fff" stroke-width="2">
+        <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+        <circle cx="10.5" cy="10.5" r="9.5" fill="none"/>
+      </g>
+      <path id="Icon_ionic-md-people" data-name="Icon ionic-md-people" d="M6.738,11.653A1.889,1.889,0,1,0,4.815,9.764,1.912,1.912,0,0,0,6.738,11.653Zm0,1.385c-1.507,0-4.488.724-4.488,2.2v1.7h9.068v-1.7C11.318,13.763,8.245,13.039,6.738,13.039Z" transform="translate(33.829 31.436)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

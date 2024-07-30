@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<usuarios>
+    <codigo_controle>1007</codigo_controle>
+    <usuario>
+        <codigo>1001</codigo>
+        <nome>Usuario</nome>
+        <email>usuario@gmail.com</email>
+        <senha>123</senha>
+    </usuario>
+    <usuario>
+        <codigo>1002</codigo>
+        <nome>Victor Gabriel</nome>
+        <email>victormatveichukvgm@gmail.com</email>
+        <senha>123</senha>
+    </usuario>
+    <usuario>
+        <codigo>1003</codigo>
+        <nome>teste2</nome>
+        <email>teste2@teste</email>
+        <senha>123</senha>
+    </usuario>
+    <usuario>
+        <codigo>1004</codigo>
+        <nome>teste2</nome>
+        <email>teste2@teste</email>
+        <senha>123</senha>
+    </usuario>
+    <usuario>
+        <codigo>1005</codigo>
+        <nome>teste2</nome>
+        <email>teste2@teste</email>
+        <senha>123</senha>
+    </usuario>
+    <usuario>
+        <codigo>1006</codigo>
+        <nome>teste55</nome>
+        <email>teste55@teste.com</email>
+        <senha>123</senha>
+    </usuario>
+<usuario><codigo>1007</codigo><nome>teste99</nome><email>teste99@teste</email><senha>123</senha></usuario></usuarios>
